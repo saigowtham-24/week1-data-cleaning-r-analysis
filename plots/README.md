@@ -1,1 +1,1 @@
-This folder contains visualizations generated during data cleaning and preliminary analysis.
+PNG charts generated from the cleaned Titanic data are in this folder.
