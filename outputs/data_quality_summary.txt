@@ -1,0 +1,5 @@
+Dataset rows: 891
+Dataset columns: 12
+Exact duplicate rows: 0
+Rows in cleaned analysis table: 891
+Columns in cleaned analysis table: 13
